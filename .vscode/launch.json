@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TacosApplication<tacos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.naole.tacos.TacosApplication",
+            "projectName": "tacos",
+            "args": ""
+        }
+    ]
+}
